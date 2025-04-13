@@ -1,0 +1,32 @@
+Del 2:
+
+git checkout 2-find-all-completed-tasks
+nano SI2025Lab1Main.java
+git add SI2025Lab1Main.java
+git commit -m "Task 2"
+git push
+git checkout 1-remove-a-task-by-name
+nano SI2025Lab1Main.java
+git add SI2025Lab1Main.java
+git commit -m "Task 1"
+git push
+git checkout 4-sort-tasks-by-priority
+nano SI2025Lab1Main.java
+git add SI2025Lab1Main.java
+git commit -m "Task 4"
+git push
+git checkout master
+git rebase 4-sort-tasks-by-priority
+git fetch origin
+git checkout master
+git merge origin/master
+git push --set-upstream origin master
+
+Del 3:
+
+git clone https://github.com/kristijanhk/SI_2025_lab1_151020.git
+nano 236033.txt
+git add 236033.txt
+git commit -m "Add file"
+git push
+

@@ -1,0 +1,15 @@
+*   0bb6e7c (HEAD -> master, origin/master, origin/HEAD) Merge remote-tracking branch 'origin/master'
+|\
+| *   31e39a1 Merge pull request #10 from kristijanhk/2-find-all-completed-tasks
+| |\
+| | * b89c5c7 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Task 2
+| * |   fe3a1b7 Merge pull request #11 from kristijanhk/1-remove-a-task-by-name
+| |\ \
+| | |/
+| |/|
+| | * fa00a09 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Task 1
+| |/
+* / 25e08ff (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Task 4
+|/
+* e3ac998 Add starter code
+* 496d1b8 Initial commit
